@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or build on this work, please cite it as below."
+title: "Cognitive Immunization: A Multi-Layer Defense-in-Depth Architecture for LLM Safety via Representation Engineering"
+authors:
+  - family-names: Farzaneh
+    given-names: Salar
+    orcid: "https://orcid.org/0009-0008-7236-9241"
+date-released: 2026-07-18
+license: MIT
+repository-code: "https://github.com/SaliSalvia/cif-cognitive-immunization"
+version: "1.0.0"
