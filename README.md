@@ -1,3 +1,21 @@
+```text
+ ███   ███  █      ███  ████
+█   █ █   █ █     █   █ █   █
+█     █   █ █     █   █ █   █
+ ███  █████ █     █████ ████
+    █ █   █ █     █   █ █ █
+█   █ █   █ █     █   █ █  █
+ ███  █   █ █████ █   █ █   █
+
+ ▓▓▓   ▓▓▓  ▓     ▓   ▓ ▓▓▓  ▓▓▓
+▓   ▓ ▓   ▓ ▓     ▓   ▓  ▓  ▓   ▓
+▓     ▓   ▓ ▓     ▓   ▓  ▓  ▓   ▓
+ ▓▓▓  ▓▓▓▓▓ ▓     ▓   ▓  ▓  ▓▓▓▓▓
+    ▓ ▓   ▓ ▓     ▓   ▓  ▓  ▓   ▓
+▓   ▓ ▓   ▓ ▓      ▓ ▓   ▓  ▓   ▓
+ ▓▓▓  ▓   ▓ ▓▓▓▓▓   ▓   ▓▓▓ ▓   ▓
+```
+
 # Cognitive Immunization Framework (CIF)
 
 **A multi-layer defense-in-depth architecture for LLM safety via representation engineering.**
